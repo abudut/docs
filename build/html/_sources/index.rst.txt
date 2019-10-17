@@ -30,7 +30,7 @@ NETFLIX
 ------------------------------------
 Una vez que hayas abierto la aplicación de Netflix o el sitio web de Netflix, basta con que selecciones Iniciar sesión para acceder a tu cuenta y empezar a ver contenido en streaming. Puedes iniciar sesión en cualquier dispositivo compatible con Netflix, o incluso en varios dispositivos compatibles. Si surge algún problema, revisa los pasos de resolución de problemas en No puedo iniciar sesión en Netflix. Si aún no tienes la aplicación de Netflix, visita ¿Cómo descargo la aplicación de Netflix?
 
-.. image:: /in.png
+.. image:: /in.PNG
  :height: 400px
  :width: 400 px
  :align: center
@@ -40,7 +40,7 @@ Una vez que hayas abierto la aplicación de Netflix o el sitio web de Netflix, b
 
 Puedes crear perfiles para los miembros de tu hogar, a fin de que disfruten de su propia experiencia de Netflix personalizada. Tu cuenta puede tener hasta cinco perfiles individuales, y puedes establecer un nivel de clasificación por edades para cada uno de ellos. Cada perfil contará con sus propias recomendaciones basadas en la clasificación y las preferencias del perfil correspondiente.
 
-.. image:: /vi.png
+.. image:: /vi.PNG
  :height: 200px
  :width: 400 px
  :align: center
@@ -50,7 +50,7 @@ Puedes crear perfiles para los miembros de tu hogar, a fin de que disfruten de s
 
 Para encontrar tu próximo maratón, busca títulos que te interesen o explora las sugerencias que proporciona Netflix. Cuando empieces a ver y valorar títulos, nuestras recomendaciones te ofrecerán cada vez más contenido acorde con tus gustos. También puedes habilitar los subtítulos y el audio en otros idiomas en muchos títulos, o bien buscar títulos con tu idioma de audio o subtítulos preferido.
 
-.. image:: /en.png
+.. image:: /en.PNG
  :height: 200px
  :width: 300 px
  :align: center
